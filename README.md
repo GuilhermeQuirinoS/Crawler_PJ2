@@ -10,7 +10,7 @@
 <!-- INTRODUCAO -->
 ## Introdução 💻
 
-### Projeto 02
+### Projeto 02 - CRAWLER
 
 Projeto 02 para matéria de Modelagem de Software Orientado a Objeto, visando um sistema de uma biblioteca.
 
